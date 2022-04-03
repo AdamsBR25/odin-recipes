@@ -30,3 +30,10 @@ h1 {
   margin-left: 20px;
 }
 
+.main-menu {
+  position: fixed;
+  bottom: 0;
+  height: auto;
+  width: auto;
+  left: 0;
+}
