@@ -11,7 +11,7 @@ a {
   color: darkgray;
   background-color: #404040;
   border: none;
-  padding: 30px;
+  padding: 20px;
   height: 70px;
   width: 200px;
   text-decoration: none;
@@ -29,3 +29,4 @@ ul {
 h1 {
   margin-left: 20px;
 }
+
