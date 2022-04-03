@@ -1,0 +1,31 @@
+html {
+  background-color: #303030;
+  color: white;
+}
+
+a:visited {
+  color: darkgray;
+}
+
+a {
+  color: darkgray;
+  background-color: #404040;
+  border: none;
+  padding: 30px;
+  height: 70px;
+  width: 200px;
+  text-decoration: none;
+}
+
+li {
+  margin-bottom: 80px;
+  margin-top: 60px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+h1 {
+  margin-left: 20px;
+}

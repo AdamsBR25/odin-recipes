@@ -1,0 +1,27 @@
+html {
+  background-color: #303030;
+  color: white;
+}
+
+a, a:visited {
+  color: darkgray;
+}
+
+.menu {
+  color: darkgray;
+  background-color: #404040;
+  border: none;
+  padding: 20px;
+  height: 70px;
+  width: 200px;
+  text-decoration: none;
+  margin: 20px;
+}
+
+.last-list {
+  margin-bottom: 50px;
+}
+
+div {
+  padding: 15px;
+}
